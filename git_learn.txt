@@ -4,3 +4,11 @@ git commit
 
 git status
 
+git diff
+git diff HEAD -- readme.txt
+
+git checkout 
+
+git rm text.txt / git commit -m "delete"
+git checkout -- readme.txt
+
